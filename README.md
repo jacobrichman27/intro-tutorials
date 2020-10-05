@@ -36,4 +36,4 @@ You can view Naitian's notes from the presentation in `tutorial2/notes.txt`.
 
 ## Tutorial 3: Machine Learning!
 
-Recording coming soon.
+[Recording](https://umich.zoom.us/rec/share/I0u9FXPm0sv47tep2lLHJnOQkurX0gzm-PMg3rPxuie6FrPGcvfv3TQtVsEwfJUK.93_O_0DnjScCMuSO)
